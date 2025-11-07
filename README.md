@@ -12,10 +12,11 @@ Bridging state-of-the-art AI research with real-world, impactful systems.
 I am an AI & Data Science Engineering student at the National Higher School of Artificial Intelligence (ENSIA, Algeria), focused on developing and deploying cutting-edge intelligent systems.
 
 I am dedicated to pushing boundaries in the following domains:
-* Large Language Models (LLMs) & Generative AI
-* Medical Image Analysis & HealthTech
-* Vision-Language Systems
-* AI for Education and Social Good
+* **Large Language Models (LLMs)** & Generative AI
+* **Smart Cities & Urban Tech** 🏙️
+* **Medical Image Analysis** & HealthTech
+* **Vision-Language Systems**
+* **AI for Social Good**
 
 ---
 
