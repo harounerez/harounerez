@@ -9,28 +9,13 @@ Bridging state-of-the-art AI research with real-world, impactful systems.
 
 ## 🧠 About Me
 
-I am an **AI & Data Science Engineering student** at the **National Higher School of Artificial Intelligence (ENSIA, Algeria)**. My mission is to build robust, intelligent systems inspired by the research culture at places like DeepMind, FAIR, and CMU.
+I am an **AI & Data Science Engineering student** at the **National Higher School of Artificial Intelligence (ENSIA, Algeria)**, focused on developing and deploying cutting-edge intelligent systems.
 
-My current focus is on **Retrieval-Augmented Generation (RAG)** for industrial knowledge systems. I am passionate about pushing boundaries in:
-* Large Language Models (LLMs) & Generative AI
-* Medical Image Analysis & HealthTech
-* Vision-Language Systems
-* AI for Education and Social Good
-
-I am actively seeking **research collaborations** and **AI engineering internships** to help build the next wave of intelligent systems.
-
----
-
-## 🚀 Featured Project
-
-### [HIKMA-RAG: Enterprise Retrieval-Augmented Generation](https://github.com/harounerez/hikma-rag)
-* **Context:** An internal knowledge retrieval system built for **Hikma Pharmaceuticals**.
-* **Objective:** Designed and implemented a production-ready RAG pipeline for complex company document Q&A.
-* **Key Contributions:**
-    * Engineered the core pipeline using **LangChain**, **Together.ai**, and **ChromaDB**.
-    * Integrated the **Gemini API** for precise, context-aware responses.
-    * Developed backend API endpoints using **Flask** and **ONNXRuntime** for model serving.
-* **Technologies:** Python, LangChain, ChromaDB, Flask, Together API, ONNXRuntime
+I am dedicated to pushing boundaries in the following domains:
+* **Large Language Models (LLMs)** & Generative AI
+* **Medical Image Analysis** & HealthTech
+* **Vision-Language Systems**
+* **AI for Education and Social Good**
 
 ---
 
@@ -38,6 +23,7 @@ I am actively seeking **research collaborations** and **AI engineering internshi
 
 | Project | Description | Key Technologies |
 | :--- | :--- | :--- |
+| **[HIKMA-RAG](https://github.com/harounerez/hikma-rag)** | (For **Hikma Pharmaceuticals**) An enterprise RAG pipeline for internal document Q&A. | **LangChain**, **ChromaDB**, **Flask**, **ONNXRuntime**, Gemini API |
 | **Balsam** | An AI-powered dermatology app for disease identification. | Flutter, TensorFlow Lite, Computer Vision |
 | **Story4Kid** | Culturally aware Arabic story generation. | Fine-tuned **Gemini 1.5**, **LLaMA 3.3**, **SILMA 9B** |
 | **Semantic UAV Comm** | (Research) A vision-language QUIC-based framework. | **Concordia University**, Python, PyTorch |
