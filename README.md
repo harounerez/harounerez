@@ -24,15 +24,19 @@ I am dedicated to pushing boundaries in the following domains:
 ## 🧰 Technical Skillset
 
 **🤖 AI / Machine Learning**
+
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy&theme=dark)](https://skillicons.dev)
 
 **☁️ Platforms & Tools**
+
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,github,docker,anaconda&theme=dark)](https://skillicons.dev)
 
 **🗄️ Data & Backend**
+
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,fastapi,flask&theme=dark)](https://skillicons.dev)
 
 **🚀 Software Development**
+
 [![My Skills](https://skillicons.dev/icons?i=flutter,git,githubactions&theme=dark)](https://skillicons.dev)
 ---
 
