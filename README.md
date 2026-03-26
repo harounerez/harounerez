@@ -15,21 +15,21 @@ I am an AI & Data Science Engineering student at the National Higher School of A
 
 ## 🧰 Technical Skillset
 
-**🤖 AI / Machine Learning**
-
+**🤖 AI & LLM Engineering**
+> LLMs, RAG, and Agentic Workflows
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy&theme=dark)](https://skillicons.dev)
+*   **Frameworks:** `LangChain` • `LangGraph` • `LlamaIndex` • `Ollama` • `llama.cpp`
+*   **Concepts:** `LLMs` • `Vector DBs` (Pinecone/Chroma) • `Prompt Engineering`
+
+**🦀 Languages & Backend**
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,postgres,mysql,mongodb,fastapi,flask,docker&theme=dark)](https://skillicons.dev)
+
+**🌐 Frontend & Mobile**
+[![My Skills](https://skillicons.dev/icons?i=react,js,flutter&theme=dark)](https://skillicons.dev)
 
 **☁️ Platforms & Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,github,docker,anaconda&theme=dark)](https://skillicons.dev)
-
-**🗄️ Data & Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,fastapi,flask&theme=dark)](https://skillicons.dev)
-
-**🚀 Software Development**
-
-[![My Skills](https://skillicons.dev/icons?i=flutter,git,githubactions&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,firebase,git,github,anaconda&theme=dark)](https://skillicons.dev)
+*   **MLOps:** `Hugging Face` • `Together.ai` • `MLflow` • `WandB`
 ---
 
 > “Artificial intelligence is not about replacing intelligence — it’s about amplifying human potential.”
